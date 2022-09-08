@@ -18,3 +18,7 @@ public class ejercicio3 {
 	}
 
 }
+/*Programa que lea una cantidad de grados centigrados y la pase a grados Fahrenheit.La formula 
+ * correspondientepara pasar de grados centigrados a fahrenheit es:
+ * Fahrenheit=32+(9*C/5)
+ * C es el valor de los grados centigrados introducidos por el usuario.*/

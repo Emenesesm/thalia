@@ -10,4 +10,7 @@ public class ejercicio1 {
   int l=entrada.nextInt();
   System.out.println("y el segundo numero es" + l );
 }
+	// Programa Java que lea dos numeros enteros por teclado y los muestre por pantalla. 
+	 
+	
 }

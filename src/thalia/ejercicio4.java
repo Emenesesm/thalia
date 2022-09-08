@@ -25,3 +25,4 @@ public class ejercicio4 {
        System.out.println("El area del triangulo es " + area);
 	}
 }
+/*P

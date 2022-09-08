@@ -10,5 +10,5 @@ public class ejercicio2 {
 		
 		System.out.println("mi nombre es " + nombre);
 	}
-
+//Programa Java que lea un nombre y muestre por pantalla:"Buenos dias nombre_introducido"
 }
